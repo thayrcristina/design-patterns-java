@@ -1,6 +1,6 @@
 package br.com.thayna.designpatterns.fundamentals.notifications;
 
-public class Main {
+public class NotificationMain {
     public static void main(String[] args) {
         Notification email = new EmailNotification();
         Notification sms = new SmsNotification();
