@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae423bf8-bda6-4220-b0c3-2fd37519d6d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/PushNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/SmsNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/thayna/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/thayna/designpatterns/fundamentals/notifications/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,6 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Thayna/OneDrive - Connect Infraestrutura/Documentos/Estudos Java/design-patterns-java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -59,12 +54,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.thayna.Main" />
-      <module name="design-patterns" />
+    <configuration name="br.com.thayna.designpatterns.fundamentals.notifications.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.thayna.designpatterns.fundamentals.notifications.Main" />
+      <module name="design-patterns-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.thayna.*" />
+          <option name="PATTERN" value="br.com.thayna.designpatterns.fundamentals.notifications.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,9 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="design-patterns-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="design-patterns-java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.br.com.thayna.designpatterns.fundamentals.notifications.Main" />
       </list>
     </recent_temporary>
   </component>

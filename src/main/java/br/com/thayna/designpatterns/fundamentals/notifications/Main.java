@@ -1,10 +1,4 @@
-package br.com.thayna;
-
-import br.com.thayna.designpatterns.fundamentals.notifications.EmailNotification;
-import br.com.thayna.designpatterns.fundamentals.notifications.Notification;
-import br.com.thayna.designpatterns.fundamentals.notifications.PushNotification;
-import br.com.thayna.designpatterns.fundamentals.notifications.SmsNotification;
-import br.com.thayna.designpatterns.fundamentals.notifications.NotificationService;
+package br.com.thayna.designpatterns.fundamentals.notifications;
 
 public class Main {
     public static void main(String[] args) {
